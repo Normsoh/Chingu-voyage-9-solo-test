@@ -1,6 +1,6 @@
 body{
     background-color: #282a36;
-    position: fixed;
+    /*position: fixed;*/
 }
 
 .tool-list{
@@ -58,11 +58,11 @@ body{
     overflow-y: scroll;
 }
 
-.javascript-list{
+/*.javascript-list{
     position: relative;
     left: 15px;
     padding-right: 3rem; 
-}
+}*/
 ::-webkit-scrollbar{
     width: 0px;
 }
